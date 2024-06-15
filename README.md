@@ -5,6 +5,23 @@
 4. Install the required dependencies using npm:
 5. This will open the application in your default web browser. If it doesn't, open your browser and go to "http://localhost:3000".
    
+# Using This Application
+1. User Interface:
+      A clean, user-friendly interface with a search bar where users can enter a city name.
+      A button to fetch and display the weather information for the entered city.
+   
+2. Weather Information:
+      i)   Current Location: Displays the name of the city and country based on the user’s input.
+      ii)  Temperature: Shows the current temperature in degrees Celsius.
+      iii) Weather Description: Provides a description of the current weather (e.g., overcast clouds).
+      iv)  Wind Speed: Displays the wind speed in km/h.
+      v)   Humidity: Shows the current humidity percentage.
+3. Date and Time:
+      Displays the current date and time.
+   
+4. Toggle Between Dark Mode and Light Mode:
+      A toggle button to switch between dark and light mode for better user experience.
+   
 # Technology Used 
 1. The application is designed to be a user-friendly weather application that provides current weather information based on user input.
    It uses the OpenWeather API to fetch real-time weather data and displays it in a clean and aesthetically pleasing UI.
