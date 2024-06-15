@@ -1,4 +1,4 @@
-# Weather-App (Run application Locally)
+# Weather-App (Run Application Locally)
 1. Firstly, change the default "main" branch into "my-new-branch".
 2. Open your terminal and run the following command to clone the repository: "git clone https://github.com/r-a-aj/Weather-App.git"
 3. Change to the project directory: "cd Weather-App"
