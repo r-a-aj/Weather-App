@@ -1,5 +1,5 @@
 # Weather-App (Run application Locally)
-1. Firstly, change the branch into "my-new-branch".
+1. Firstly, change the main branch into "my-new-branch".
 2. Open your terminal and run the following command to clone the repository: "git clone https://github.com/r-a-aj/Weather-App.git"
 3. Change to the project directory: "cd Weather-App"
 4. Install the required dependencies using npm:
