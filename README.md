@@ -11,15 +11,17 @@
       A button to fetch and display the weather information for the entered city.
    
 2. Weather Information:
+   
       i)   Current Location: Displays the name of the city and country based on the user’s input.
       ii)  Temperature: Shows the current temperature in degrees Celsius.
       iii) Weather Description: Provides a description of the current weather (e.g., overcast clouds).
       iv)  Wind Speed: Displays the wind speed in km/h.
       v)   Humidity: Shows the current humidity percentage.
-3. Date and Time:
+   
+4. Date and Time:
       Displays the current date and time.
    
-4. Toggle Between Dark Mode and Light Mode:
+5. Toggle Between Dark Mode and Light Mode:
       A toggle button to switch between dark and light mode for better user experience.
    
 # Technology Used 
