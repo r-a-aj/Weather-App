@@ -17,6 +17,7 @@
       Fetch API: For making network requests to the OpenWeather API.
       Toggle:Toggle functionality is use in these appliction.
  # Known issues and Limitations
- 1.While the application does basic error handling (e.g., invalid city names), there might be cases where the error messages could be more descriptive or user-friendly.
- 2.The application should be tested on various devices (desktop, tablet, mobile) to ensure it is fully responsive. Some minor adjustments might be needed for optimal display on all devices.
+ 1.While the application does basic error handling (e.g., invalid city names), there might be cases where the error messages could be more descriptive or user-      
+   friendly. The application should be tested on various devices (desktop, tablet, mobile) to ensure it is fully responsive. Some minor adjustments might be needed 
+   for optimal display on all devices.
  
