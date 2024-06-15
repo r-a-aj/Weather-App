@@ -10,12 +10,14 @@
    It uses the OpenWeather API to fetch real-time weather data and displays it in a clean and aesthetically pleasing UI.
    The application also includes a feature to toggle between light and dark modes.
    Technologies Used:-
+   
        1.React: A JavaScript library for building user interfaces.
        2.CSS: For styling the components.
        3.OpenWeather API: To fetch weather data.
        4.React Icons: For adding icons to the UI.
        5.Fetch API: For making network requests to the OpenWeather API.
        6.Toggle:Toggle functionality is use in these appliction.
+   
  # Known issues and Limitations
  1.While the application does basic error handling (e.g., invalid city names), 
    there might be cases where the error messages could be more descriptive or user-friendly. 
